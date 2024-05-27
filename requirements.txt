@@ -1,0 +1,13 @@
+dash
+Flask
+dash-bootstrap-components
+dash-bootstrap-templates
+dash-core-components
+dash-html-components
+dash-table
+numpy
+plotly
+pandas
+supabase
+yfinance
+xlrd

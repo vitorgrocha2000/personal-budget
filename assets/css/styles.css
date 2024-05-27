@@ -1,0 +1,83 @@
+#sidebar_completa {
+    height: 100vh;
+    margin: 0px;
+    padding: 20px;
+    background-image: url('assets/images/casa.png');
+}
+
+.row {
+    --bs-gutter-x: 0rem !important;
+}
+
+.card {
+    margin-right: 10px;
+}
+
+.perfil_avatar {
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+#new-button {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    border: 0px transparent solid;
+}
+
+.sticky-sidebar {
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.dash-filter input[type="text"]::placeholder {
+    text-align: left;
+}
+
+.show-hide {
+    display: none;
+}
+
+.active-singlelink {
+    background-color: #277fe32a !important;
+    border-right: 2px solid #277fe3 !important;
+}
+
+.active-grouplink {
+    background-color: #277fe32a !important;
+}
+
+.active-sublink {
+    background-color: #277fe30f !important;
+    /*adicionar uma borda na esquerda azul pequena*/
+    border-right: 2px solid #277fe3 !important;
+}
+
+.nav-link:hover {
+    background-color: #04040407;
+}
+
+.delete-statement-line-button {
+    background-color: #f44336; /* Cor de fundo vermelha */
+    color: white; /* Cor do texto branca */
+    border: none; /* Remova a borda */
+    border-radius: 50%; /* Deixe o botão circular */
+    cursor: pointer; /* Altere o cursor ao passar o mouse */
+    font-size: 12px; /* Tamanho da fonte menor */
+    padding: 4px; /* Preenchimento interno menor */
+    width: 24px; /* Largura fixa */
+    height: 24px; /* Altura fixa */
+    line-height: 1; /* Centralize o texto verticalmente */
+}
+
+.dash-debug-menu__outer {
+    visibility: hidden !important;
+    }
+    
+.dash-debug-menu {
+    visibility: hidden !important;
+}
