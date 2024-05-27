@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Dash Video](![Uploading Personal budget demo.gif…]())
+![Dash Video](![Personal budget demo](https://github.com/vitorgrocha2000/personal-budget/assets/67192661/7d069814-bf47-43a0-8e2c-337dc019d0e5))
 
 </div>
 
