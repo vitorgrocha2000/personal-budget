@@ -64,4 +64,4 @@ Frontend developed using **PYTHON** and the following libraries and backend usin
 - Integration with coupons apps based on financial habits
 - Import expenses from receipts of markets using OCR
 
-<p align="center">Copyright © 2023 Vitor Rocha/p>
+<p align="center">Copyright © 2023 Vitor Rocha</p>
